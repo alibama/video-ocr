@@ -1,7 +1,7 @@
 System Overview
 ---------------
 
-This system performs Optical Character Recognition (OCR) on video content using advanced computer vision techniques. It incorporates region of interest (ROI) detection, change analysis, and text grouping to efficiently extract and organize text from video frames.
+This system performs Optical Character Recognition (OCR) on video content using the python tesseract library for computer vision. It incorporates region of interest (ROI) detection, change analysis, and text grouping to efficiently extract and organize text from video frames.
 
 Architecture
 ------------
